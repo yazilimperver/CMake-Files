@@ -1,1 +1,2 @@
 "# CMake-Files" 
+This repository contains CMake files that are referenced in www.yazilimperver.com blog posts (Blog folder). Additionally, some other helpful and example cmake files are also added (Examples folder).
